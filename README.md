@@ -1,0 +1,2 @@
+# CPPCalculator
+Simple C++ calculator.
